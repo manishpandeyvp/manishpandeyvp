@@ -9,7 +9,7 @@
 <img align="right" width="375" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
 ## :pencil2: My Works: :trophy:  
-- [Portfolio 💻](https://github.com/manishpandeyvp/pfolio)
+- [Portfolio 💻](https://manishpandeyvp.github.io/pfolio/)
 - [Portfolio | Flutter 💻](https://logo.letskhabar.com/)
 - [IIITDMJ Companion 🎓](https://github.com/Fuzzy-Spork/iiitdmj-companion)
 - [Quester 🌏](https://github.com/manishpandeyvp/Quester)
