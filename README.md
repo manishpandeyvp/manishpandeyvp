@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Kotlin
 - 💬 Ask me about Flutter and Kotlin
 - 🏛️ Student at IIITDM Jabalpur :india:
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🥅 2021 Goals: Learn Java.
 
 
 <img align="right" width="375" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
