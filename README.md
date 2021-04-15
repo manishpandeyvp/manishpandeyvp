@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Manish Kumar Pandey
-- 🔭 I’m currently working on [Projemanag](https://github.com/manishpandeyvp/Projemanag)
+- 🔭 I’m currently working on [Lemon Squeeze](https://github.com/manishpandeyvp/lemon-squeeze)
 - 🌱 I’m currently learning Kotlin
 - 💬 Ask me about Flutter and Kotlin
 - 🏛️ Student at IIITDM Jabalpur :india:
