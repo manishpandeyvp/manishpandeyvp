@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Manish Kumar Pandey
-- 🔭 I’m currently working on [Lemon Squeeze](https://github.com/manishpandeyvp/lemon-squeeze)
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Java
 - 💬 Ask me about Flutter and Kotlin
 - 🏛️ Student at IIITDM Jabalpur :india:
 - 🥅 2021 Goals: Learn Java.
