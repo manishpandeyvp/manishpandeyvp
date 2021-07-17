@@ -8,13 +8,14 @@
 <img align="right" width="375" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
 ## :pencil2: My Works: :trophy:  
-- [Portfolio 💻](https://manishpandeyvp.github.io/pfolio/)
+- [Portfolio 💻](https://manishp.codes/)
 - [Portfolio | Flutter 💻](https://github.com/manishpandeyvp/portfolio-flutter)
 - [IIITDMJ Companion 🎓](https://github.com/Fuzzy-Spork/iiitdmj-companion)
 - [Quester 🌏](https://github.com/manishpandeyvp/Quester)
 - [This is Us 📚](https://github.com/manishpandeyvp/this-is-us-Flutter-1)
 - [Sanjivani 😷](https://github.com/Fuzzy-Spork/Sanjivani)
 - [Projemanag :memo:](https://github.com/manishpandeyvp/Projemanag)
+- [Lemon Squeeze 🍋](https://github.com/manishpandeyvp/lemon-squeeze)
 
  ## :trophy: Languages and Tools: :robot:
 <img src="https://logo.letskhabar.com/img/?tool=android" alt="android" width="50px"> <img src="https://logo.letskhabar.com/img/?tool=arduino" alt="arduino" width="50px"> <img src="https://logo.letskhabar.com/img/?tool=atom" alt="atom" width="50px"> <img src="https://logo.letskhabar.com/img/?tool=bootstrap" alt="bootstrap" width="50px"> <img src="https://logo.letskhabar.com/img/?tool=c-programming" alt="c-programming" width="50px"> <img src="https://logo.letskhabar.com/img/?tool=css3" alt="css3" width="50px"> <img src="https://logo.letskhabar.com/img/?tool=dart" alt="dart" width="50px"> <img src="https://logo.letskhabar.com/img/?tool=firebase" alt="firebase" width="50px"> <img src="https://logo.letskhabar.com/img/?tool=flutter" alt="flutter" width="50px"> <img src="https://logo.letskhabar.com/img/?tool=javascript" alt="javascript" width="50px"> <img src="https://logo.letskhabar.com/img/?tool=kotlin" alt="kotlin" width="50px"> <img src="https://logo.letskhabar.com/img/?tool=nodejs" alt="nodejs" width="50px"> <img src="https://logo.letskhabar.com/img/?tool=mongodb" alt="mongodb" width="50px"> <img src="https://logo.letskhabar.com/img/?tool=python" alt="python" width="50px">
