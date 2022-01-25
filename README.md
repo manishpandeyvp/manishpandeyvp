@@ -1,8 +1,9 @@
 ### Hi there 👋 I'm Manish Kumar Pandey
-- 🌱 I’m currently learning Java
-- 💬 Ask me about Flutter and Kotlin
-- 🏛️ Student at IIITDM Jabalpur :india:
-- 🥅 2021 Goals: Learn Java.
+- 🌱 I’m currently learning Android
+- 💻 SWE Intern @ Paytm Money
+- 🏛️ Student @ IIITDM Jabalpur :india:
+- 🥅 2022 Goals: Learn Kotlin
+- 😄 Pronouns: He/Him
 
 
 <img align="right" width="375" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
